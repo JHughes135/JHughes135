@@ -1,5 +1,5 @@
 # 👋 Hi, I’m James
-- 👀 I’m interested in Web Development, Software Dvelopment, AI, IOT
+- 👀 I’m interested in Web Development, Software Development, AI, IOT
 - 🌱 I’m currently learning Data Science with Code Academy
 - 📫 How to reach me. Email: Hughesjames94@gmail.com
 
