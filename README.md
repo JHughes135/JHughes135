@@ -16,3 +16,5 @@ During my time in college I worked on a number of projects and assignments inclu
 - A **Python** program to convert the Airplane_Crashes.csv collection to be stored by year of the crash in a one to many design in a MongoDB database.
 
 - A Procedurally generated city in **Unity Games Engine** containing a reasonable variation of buildings, streets and other objects that might be found in a city.
+
+During my internship with SAP I gained a lot of valuable experience with cloud infrastructure, using SAP cloud platform and developing an app on SAP’s Fiori platform using SAPUI5 HTML5 framework. 
