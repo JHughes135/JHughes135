@@ -19,12 +19,19 @@ During my time in college I worked on a number of projects and assignments inclu
 During my internship with SAP I gained a lot of valuable experience with cloud infrastructure, using SAP cloud platform and developing an app on SAP’s Fiori platform using SAPUI5 HTML5 framework. 
 
 ## Final Year Project
-The goal of my project was to create a game involving a basic self-driving car AI, a human player and a procedurally generated city environment within Unity 3D. The AI was created using C# scripts. 
+
+The goal of my project was to create a game involving a basic self-driving car AI, a human player and a procedurally generated city environment within Unity 3D. The AI was created using C# scripts.  
+
+  
+
+The design of the game is: 
+
+Procedurally generate a city using perlin noise. 
+
+For the player to navigate the environment while searching for a goal point and avoiding the rogue self driving car. 
+
+The rogue self-driving car to patrol the environment, search for the player and pursue if in its line of sight. 
+
  
-The design of the game is:
-- Procedurally generate a city using perlin noise.
-- For the player to navigate the environment while searching for a goal point and avoiding the rogue self driving car.
-- The rogue self-driving car to patrol the environment, search for the player and pursue if in its line of sight.
 
-I was met with some issues and was limited on time with my project. In the end the AI was not fully functional and was quite buggy. I plan on continuing the development of this project in the future and to polish and publish it on a public platform to recieve feedback.
-
+I was met with some issues and was limited on time with my project. I’m currently still working on the project in my spare time. Currently the game is playable and most of the features are functional. I am still working to get the Ai to the specifications I originally planned on. The Ai will patrol the city randomly but it will not yet pursue the player when in its line of sight this is the most dificult part of the project and I plan on getting it finished soon. 
