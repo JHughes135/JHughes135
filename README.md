@@ -26,11 +26,11 @@ The goal of my project was to create a game involving a basic self-driving car A
 
 The design of the game is: 
 
-Procedurally generate a city using perlin noise. 
+- Procedurally generate a city using perlin noise. 
 
-For the player to navigate the environment while searching for a goal point and avoiding the rogue self driving car. 
+- For the player to navigate the environment while searching for a goal point and avoiding the rogue self driving car. 
 
-The rogue self-driving car to patrol the environment, search for the player and pursue if in its line of sight. 
+- The rogue self-driving car to patrol the environment, search for the player and pursue if in its line of sight. 
 
  
 
