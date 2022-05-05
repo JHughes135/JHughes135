@@ -1,5 +1,5 @@
 # 👋 Hi, I’m James
-- 👀 I’m interested in Game Development, Software Development, AI, IOT, Data Science
+- 👀 I’m interested in Full STack Development, Game Development, AI, IOT, Data Science
 - 📫 How to reach me. Email: Hughesjames94@gmail.com
 
 During my time in college I worked on a number of projects and assignments including: 
