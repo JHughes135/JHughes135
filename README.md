@@ -5,7 +5,7 @@
 
 During my time in college I worked on a number of projects and assignments including: 
 
-- A program written in **Java** to analyse the language in a piece of text and determine wether the language and grammar used is formal or informal. 
+- A program written in **Java** to analyse the language in a piece of text and determine whether the language and grammar used is formal or informal. 
 
 - A **website** for a pizza delivery restaurant using **Apache web server, PHP, HTML, CSS**. Users could, browse a menu, log in/out, checkout, orders stored in db, menu items stored in db with prices etc. 
 
